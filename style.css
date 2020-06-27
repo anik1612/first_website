@@ -15,6 +15,10 @@ body{
     color: #2980b9;
 } 
 
+.header h1{
+    text-align: center;
+}
+
 .header h5#left{
     text-align: left;
     background-color:#c0392b;
